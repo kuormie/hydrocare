@@ -1,0 +1,23 @@
+{
+  "Normal": [
+    "Pertahankan konsumsi air 2 liter per hari",
+    "Jaga pola minum yang baik"
+  ],
+  "Dehidrasi Ringan": [
+    "Minum 2 liter air per hari",
+    "Hindari minuman berkafein",
+    "Konsumsi buah dengan kandungan air tinggi"
+  ],
+  "Dehidrasi Sedang": [
+    "Segera minum 3 gelas air",
+    "Konsumsi elektrolit",
+    "Kurangi aktivitas di luar ruangan",
+    "Istirahat cukup"
+  ],
+  "Dehidrasi Berat": [
+    "Segera temui dokter",
+    "Minum banyak air secara perlahan",
+    "Hindari semua aktivitas fisik",
+    "Konsumsi larutan oralit"
+  ]
+}

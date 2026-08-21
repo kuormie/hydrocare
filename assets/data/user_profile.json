@@ -1,0 +1,12 @@
+{
+  "id": "user_001",
+  "name": "Cindy",
+  "email": "cindy@hydrocare.com",
+  "greeting": "Hello, Cindy 👋",
+  "profileImagePath": null,
+  "tanggalLahir": "12 April 2000",
+  "jenisKelamin": "Perempuan",
+  "beratBadan": "55 Kg",
+  "tinggiBadan": "160 Cm",
+  "aktivitasHarian": "Sedang"
+}

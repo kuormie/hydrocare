@@ -1,0 +1,66 @@
+[
+  {
+    "id": "scan_001",
+    "date": "12 Juni 2025",
+    "time": "08:45",
+    "status": "Normal",
+    "aiScore": 94,
+    "urineColor": "Kuning Muda",
+    "recommendations": [
+      "Pertahankan konsumsi air 2 liter per hari",
+      "Jaga pola minum yang baik"
+    ]
+  },
+  {
+    "id": "scan_002",
+    "date": "19 Juni 2025",
+    "time": "13:30",
+    "status": "Dehidrasi Ringan",
+    "aiScore": 73,
+    "urineColor": "Kuning",
+    "recommendations": [
+      "Minum 2 liter air per hari",
+      "Hindari minuman berkafein",
+      "Konsumsi buah dengan kandungan air tinggi"
+    ]
+  },
+  {
+    "id": "scan_003",
+    "date": "26 Juni 2025",
+    "time": "10:15",
+    "status": "Normal",
+    "aiScore": 92,
+    "urineColor": "Kuning Muda",
+    "recommendations": [
+      "Pertahankan konsumsi air 2 liter per hari",
+      "Jaga pola minum yang baik"
+    ]
+  },
+  {
+    "id": "scan_004",
+    "date": "01 Juli 2025",
+    "time": "08:23",
+    "status": "Dehidrasi Ringan",
+    "aiScore": 71,
+    "urineColor": "Kuning Tua",
+    "recommendations": [
+      "Minum 2 liter air per hari",
+      "Istirahat yang cukup",
+      "Kurangi aktivitas fisik berat"
+    ]
+  },
+  {
+    "id": "scan_005",
+    "date": "15 Juli 2025",
+    "time": "12:40",
+    "status": "Dehidrasi Sedang",
+    "aiScore": 60,
+    "urineColor": "Oranye",
+    "recommendations": [
+      "Segera minum 3 gelas air",
+      "Konsumsi elektrolit",
+      "Kurangi aktivitas di luar ruangan",
+      "Istirahat cukup"
+    ]
+  }
+]

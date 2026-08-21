@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sample_normal",
+    "urineColor": "Kuning Muda",
+    "status": "Normal",
+    "aiScore": 94,
+    "recommendations": [
+      "Pertahankan konsumsi air 2 liter per hari",
+      "Jaga pola minum yang baik"
+    ]
+  },
+  {
+    "id": "sample_ringan",
+    "urineColor": "Kuning",
+    "status": "Dehidrasi Ringan",
+    "aiScore": 73,
+    "recommendations": [
+      "Minum 2 liter air per hari",
+      "Hindari minuman berkafein",
+      "Konsumsi buah dengan kandungan air tinggi"
+    ]
+  },
+  {
+    "id": "sample_sedang",
+    "urineColor": "Kuning Tua",
+    "status": "Dehidrasi Sedang",
+    "aiScore": 60,
+    "recommendations": [
+      "Segera minum 3 gelas air",
+      "Konsumsi elektrolit",
+      "Kurangi aktivitas di luar ruangan",
+      "Istirahat cukup"
+    ]
+  }
+]

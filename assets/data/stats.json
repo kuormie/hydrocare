@@ -1,0 +1,22 @@
+{
+  "hydrationLevel": "NORMAL",
+  "currentAiScore": 91,
+  "thisWeek": {
+    "scan": 4,
+    "normal": 3,
+    "dehidrasi": 1
+  },
+  "statusDistribution": [
+    { "status": "Normal", "percentage": 40.0 },
+    { "status": "Dehidrasi Ringan", "percentage": 35.0 },
+    { "status": "Dehidrasi Sedang", "percentage": 15.0 },
+    { "status": "Dehidrasi Berat", "percentage": 10.0 }
+  ],
+  "weeklyScores": [
+    { "label": "Normal", "score": 91 },
+    { "label": "Ringan", "score": 73 },
+    { "label": "Sedang", "score": 60 },
+    { "label": "Berat", "score": 45 }
+  ],
+  "averageAiScore": 50
+}
